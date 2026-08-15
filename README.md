@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/4cf68c8e-342e-4cf2-863c-17f74976a5de" alt="hacking watch dogs GIF"/>
 </p>
 
-<h4 align="left">- 👦🏻 My name is Naoto Ushizaki<br>-  Born in Brazil with Japanese heritage<br>- 💻 Computer Science Student at Universidade Presbiteriana Mackenzie (UPM)<br>- 🔐 Focused in Cybersecurity, Machine Learning and Deep Learning</h4>
+<h4 align="left">- 👦🏻 My name is Naoto Ushizaki<br>-  👶Born in Brazil with Japanese heritage<br>- 💻 Computer Science Student at Universidade Presbiteriana Mackenzie (UPM)<br>- 🔐 Focused in Cybersecurity, Machine Learning and Deep Learning</h4>
 
 ###
 
@@ -24,7 +24,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="75" height="60" alt="netbr_logo" src="https://github.com/user-attachments/assets/7394f8ce-366a-4c56-b864-4b8f04048948" />
+
 </div>
 
 ###
@@ -46,6 +47,5 @@
 | 🌐 Platform | 🔗 Link |
 |------------|---------|
 | 💼 LinkedIn | [LinkedIn](www.linkedin.com/in/naoto-ushizaki-30b94a172) |
-| 🎮 Discord  | [Discord](https://discordapp.com/users/686044722057576456) |
 | 📧 Outlook  | [Email Me](mailto:10437445@mackenzista.com.br) |
 
